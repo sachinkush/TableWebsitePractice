@@ -1,0 +1,60 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.button {
+    border: none;
+    background: #6e4aba;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0px 0px;
+    padding: 14px 25px;
+}
+
+.button1 {
+    padding: 12px 25px;
+    margin: 0px 0px;
+    border-color: #6e4aba;
+    background: #ffffff;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.button2 {
+    padding: 12px 25px;
+    margin: 0px 0px;
+    background: #20c4cb;
+    border-color: #20c4cb;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.button3 {
+    padding: 12px 25px;
+    margin: 0px 0px;
+    background: #567ac3;
+    border-color:#567ac3; 
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    
+}
+
+.center{
+    
+    text-align: center;
+}
+.center4{
+    
+    text-align: center;
+    color:#ffffff;
+}
+
+
