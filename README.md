@@ -9,7 +9,7 @@
 
 <p> some website layout using table property and attribute </p>
 
-<a href="http://secondtablelayoutsachin.tk/"><img src="https://preview.ibb.co/dzNFHp/table2.png" alt="table2" border="0"></a>
+<a href="https://objective-jang-409a01.netlify.com/"><img src="https://preview.ibb.co/dzNFHp/table2.png" alt="table2" border="0"></a>
 
 
 
